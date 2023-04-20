@@ -8,6 +8,17 @@ IDE: _**Visual Studio 2022**_ :purple_heart:
 
 Интерфейс приложений: _**WinForms**_
 
+> Какие задания сделаны:
+> - [ ] [*1 задание*](https://github.com/darkness-31/HomeworkApplicationProgramming#1-задание---калькулятор)
+> - [x] [*2 задание*](https://github.com/darkness-31/HomeworkApplicationProgramming#2-задание---расписание)
+> - [ ] [*3 задание*](https://github.com/darkness-31/HomeworkApplicationProgramming#3-задание---гороскопы)
+> - [x] [*4 задание*](https://github.com/darkness-31/HomeworkApplicationProgramming#4-задание---json-в-бд)
+> - [x] [*5 задание*](https://github.com/darkness-31/HomeworkApplicationProgramming#5-задание---сравнение-текста)
+> - [x] [*6 задание*](https://github.com/darkness-31/HomeworkApplicationProgramming#6-задание---записная-книжка-с-бд-sqlite)
+> - [x] [*7 задание*](https://github.com/darkness-31/HomeworkApplicationProgramming#7-задание---программа-тестирования-знаний)
+> - [ ] [*8 задание*](https://github.com/darkness-31/HomeworkApplicationProgramming#8-задание---программа-для-созданияредактирования-xml-документов)
+> - [ ] [*9 задание*](https://github.com/darkness-31/HomeworkApplicationProgramming#9-задание---программа-для-просмотрасозданияредактирования-таблиц)
+
 ## 1 задание - **Калькулятор**
 Компоненты которые нужны:
   - TextBox
