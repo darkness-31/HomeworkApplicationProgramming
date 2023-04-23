@@ -16,7 +16,7 @@ IDE: _**Visual Studio 2022**_ :purple_heart:
 > - [x] [*5 задание*](https://github.com/darkness-31/HomeworkApplicationProgramming#5-задание---сравнение-текста)
 > - [x] [*6 задание*](https://github.com/darkness-31/HomeworkApplicationProgramming#6-задание---записная-книжка-с-бд-sqlite)
 > - [x] [*7 задание*](https://github.com/darkness-31/HomeworkApplicationProgramming#7-задание---программа-тестирования-знаний)
-> - [ ] [*8 задание*](https://github.com/darkness-31/HomeworkApplicationProgramming#8-задание---программа-для-созданияредактирования-xml-документов)
+> - [x] [*8 задание*](https://github.com/darkness-31/HomeworkApplicationProgramming#8-задание---программа-для-созданияредактирования-xml-документов)
 > - [ ] [*9 задание*](https://github.com/darkness-31/HomeworkApplicationProgramming#9-задание---программа-для-просмотрасозданияредактирования-таблиц)
 
 ## 1 задание - **Калькулятор**

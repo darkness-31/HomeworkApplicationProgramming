@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <FirstName>Коста</FirstName>
+    <LastName>Ломе</LastName>
+    <MiddleName>Воимя</MiddleName>
+    <Status>GrandFather</Status>
+  </Person>
+  <Person>
+    <FirstName>Вова</FirstName>
+    <LastName>Сломался</LastName>
+    <MiddleName>Воимя</MiddleName>
+    <Status>Father</Status>
+  </Person>
+  <Person>
+    <FirstName>Соимя</FirstName>
+    <LastName>Ложица</LastName>
+    <MiddleName>Чомся</MiddleName>
+    <Status>Mother</Status>
+  </Person>
+  <Person>
+    <FirstName>Воиха</FirstName>
+    <LastName>Солме</LastName>
+    <MiddleName>Лоитма</MiddleName>
+    <Status>Unknown</Status>
+  </Person>
+  <Person>
+    <FirstName>Коста</FirstName>
+    <LastName>Ломе</LastName>
+    <MiddleName>Воимя</MiddleName>
+    <Status>GrandMother</Status>
+  </Person>
+</ArrayOfPerson>
