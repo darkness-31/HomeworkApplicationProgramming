@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <FirstName>Федор</FirstName>
+    <LastName>Кудрявцев</LastName>
+    <MiddleName>Артёмович</MiddleName>
+    <Email>polly83@effertz.com</Email>
+    <PhoneNumber>+7 (922) 109-1103</PhoneNumber>
+  </Person>
+  <Person>
+    <FirstName>Артём</FirstName>
+    <LastName>Громов</LastName>
+    <MiddleName>Иванович</MiddleName>
+    <Email>domenic86@hane.com</Email>
+    <PhoneNumber>(812) 073-97-88</PhoneNumber>
+  </Person>
+  <Person>
+    <FirstName>Амелия</FirstName>
+    <LastName>Никифорова</LastName>
+    <MiddleName>Павловна</MiddleName>
+    <Email>alex.greenholt@kautzer.com</Email>
+    <PhoneNumber>(812) 872-98-65</PhoneNumber>
+  </Person>
+  <Person>
+    <FirstName>Егор</FirstName>
+    <LastName>Бондарев</LastName>
+    <MiddleName>Владимирович</MiddleName>
+    <Email>jcrist@gmail.com</Email>
+    <PhoneNumber>+7 (922) 746-0317</PhoneNumber>
+  </Person>
+</ArrayOfPerson>
